@@ -6,9 +6,10 @@
 
 #### [# goit-algo-hw-02](https://github.com/topics/goit-algo-hw-02) <!-- omit in toc -->
 
-## Custom implementations of basic data structures: Queue, Deque, and Stack. <!-- omit in toc -->
+## Basic data structures: Queue, Deque, and Stack. <!-- omit in toc -->
 
 This project explores the fundamental concepts of **queues**, **double-ended queues (deque)**, and **stacks** through hands-on problem-solving in Python. It includes implementations that simulate real-world scenarios such as:
+
 * Request processing in a service center using `queue.Queue`
 * Palindrome checking using `collections.deque`
 * Bracket matching using a `stack` to validate delimiter symmetry
@@ -40,8 +41,9 @@ This project explores the fundamental concepts of **queues**, **double-ended que
 ### Task 1: Request Queue Simulation
 
 <p align="center">
-  <img src="./assets/task-1-showcase-image.png" alt="Project task 1 showcase image" width="700">
+  <img src="./assets/task-1-showcase-image.png" alt="Project task 1 showcase image" width="600" alt="queue scheme">
 </p>
+<p align="center"><em>Queue scheme, FIFO (First In First Out)</em></p>
 
 #### Description
 
@@ -85,8 +87,9 @@ In this pseudocode, two main functions are used: `generate_request()`, which gen
 ### Task 2: Palindrome Checker with Deque
 
 <p align="center">
-  <img src="./assets/task-2-showcase-image.png" alt="Project task 2 showcase image" width="700">
+  <img src="./assets/task-2-showcase-image.png" alt="Project task 2 showcase image" width="600" alt="deque scheme">
 </p>
+<p align="center"><em>Double-ended queue (deque) scheme</em></p>
 
 #### Description
 
@@ -110,8 +113,9 @@ The program should correctly handle:
 ### Task 3: Bracket Symmetry Checker Using Stack
 
 <p align="center">
-  <img src="./assets/task-3-showcase-image.png" alt="Project task 3 showcase image" width="700">
+  <img src="./assets/task-3-showcase-image.png" alt="Project task 3 showcase image" width="600" alt="queue scheme">
 </p>
+<p align="center"><em>Stack scheme, LIFO (Last In, First Out)</em></p>
 
 #### Description
 
