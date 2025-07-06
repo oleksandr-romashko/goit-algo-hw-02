@@ -149,9 +149,10 @@ There no exact acceptance criteria for this task.
 
 Each task is implemented in a separate Python file located in the `/src` directory:
 
-* [/src/task_1.py](/src/task_1.py) - solution for Task 1: Request Queue Simulation
-* [/src/task_2.py](/src/task_2.py) - solution for Task 2: Palindrome Checker with Deque
-* [/src/task_3.py](/src/task_3.py) - solution for Task 3: Bracket Symmetry Checker Using Stack
+* [/src/task_1/task_1.py](/src/task_1/task_1.py) - solution for Task 1: Request Queue Simulation
+    ![task 1 solution terminal screenshot](./assets/solution/task-1-solution-terminal-screenshot.png)
+* [/src/task_2/task_2.py](/src/task_2/task_2.py) - solution for Task 2: Palindrome Checker with Deque
+* [/src/task_3/task_3.py](/src/task_3/task_3.py) - solution for Task 3: Bracket Symmetry Checker Using Stack
 
 ## Project Setup & Run Instructions
 
@@ -190,13 +191,13 @@ From the project root directory, run the following command:
 ##### For Linux and macOS:
 
 ```bash
-python3 ./src/task_1.py
+python3 ./src/task_1/task_1.py
 ```
 
 ##### For Windows:
 
 ```cmd
-python src\task_1.py
+python src\task_1\task_1.py
 ```
 
 > **Note:** Replace `task_1.py` with the desired task file (e.g. `task_2.py`, `task_3.py`) to run the corresponding solution.
