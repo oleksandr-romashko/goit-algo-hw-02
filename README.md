@@ -154,6 +154,7 @@ Each task is implemented in a separate Python file located in the `/src` directo
 * [/src/task_2/task_2.py](/src/task_2/task_2.py) - solution for Task 2: Palindrome Checker with Deque
     ![task 2 solution terminal screenshot](./assets/solution/task-2-solution-terminal-screenshot.png)
 * [/src/task_3/task_3.py](/src/task_3/task_3.py) - solution for Task 3: Bracket Symmetry Checker Using Stack
+    ![task 3 solution terminal screenshot](./assets/solution/task-3-solution-terminal-screenshot.png)
 
 ## Project Setup & Run Instructions
 
